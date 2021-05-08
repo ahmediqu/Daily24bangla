@@ -65,8 +65,6 @@
 
                                         use EasyBanglaDate\Types\DateTime;
 
-
-
                                         $date = new DateTime('now', new DateTimeZone('Asia/Dhaka'));
 
                                         echo $date->format('l j F Y');

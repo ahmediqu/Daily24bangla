@@ -678,7 +678,7 @@
 }
 .wsmenucontainer.wsoffcanvasopener {
 	display: block;
-	margin-left: 240px;
+	/*margin-left: 240px;*/
 }
 .wsmobileheader {
 	display: block !important;
@@ -1140,7 +1140,7 @@
 	cursor: pointer;
 	height: 3px;
 	width: 23px;
-	background: #88cc2d;
+	background: #f44336;
 	position: absolute;
 	display: block;
 	content: '';
